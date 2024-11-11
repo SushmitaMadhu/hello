@@ -1,0 +1,7 @@
+
+    # This is the CODEOWNERS file for the repository.
+    # Each line is a file or directory pattern followed by one or more code owners.
+    # This file is created to ensure GCP Codefreeze is in effect.
+    
+    * SushmitaMadhu/DPQ
+    
